@@ -1,9 +1,9 @@
 h1,h2,h3 {
-  color:#bd0d4e;
+  color:white;
   font-family:"Kanit","Lucida Sans Unicode"; 
 }
 
-p,li {
-  color:#d94d1a;
+p,li,td{
+  color:white;
   font-family:"Lucida Sans Unicode";
 }
