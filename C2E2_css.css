@@ -30,6 +30,13 @@ table.content_headers{
   text-align: center;
   width: 45%;
 }
+table.special_content{
+  border-spacing: 0.5em;
+  text-align: center;
+  vertical-align: top;
+  width: 40%;
+  padding: 10em;
+}
 a{
   color: white;
 }
