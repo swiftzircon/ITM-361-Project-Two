@@ -10,9 +10,10 @@ td.main_content{
   border-radius: 1em;
   text-align: center;
   background-color: #bd0d4e;
+  width: 30%;
 }
 td.content{
-   border-radius: 1em;
+  border-radius: 1em;
   padding: 0.5em;
   text-align: center;
   background-color: #d94d1a;
