@@ -1,0 +1,35 @@
+h1,h2,h3 {
+  color:white;
+  font-family:"Kanit","Lucida Sans Unicode"; 
+}
+p,li,td{
+  color:white;
+  font-family:"Lucida Sans Unicode";
+}
+td.main_content{
+  text-align: center;
+  background-color: #bd0d4e;
+}
+td.content{
+  padding: 0.5em;
+  text-align: center;
+  background-color: #d94d1a;
+}
+table.navigation{
+  border-spacing: 1em;
+  width: 50%;
+}
+table.content{
+  border-spacing: 0.5em;
+}
+a{
+  color: white;
+}
+body {
+  background-image: url("images/C2E2_bg.png"); 
+}
+img.align{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
