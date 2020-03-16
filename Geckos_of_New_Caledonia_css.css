@@ -7,13 +7,30 @@ p,li,td{
   font-family:"Lucida Sans Unicode";
 }
 td.main_content{
+  border-radius: 1em;
   text-align: center;
-  background-color: #bd0d4e;
+  background-color: #b2d136;
 }	
 table.navigation{
   border-spacing: 1em;
   width: 50%;
 }
+table.gecko_content{
+  margin: 1em;
+
+  border-radius: 1em;
+  text-align: center;
+  background-color: #b2d136;
+}
+td.gecko_content{
+  vertical-align: top;
+}
+img{
+  border-radius: 1em;
+}
 a{
   color: white;
+}
+body {
+  background-image: url("images/Gecko_bg.jpg"); 
 }
