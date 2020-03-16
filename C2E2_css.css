@@ -23,6 +23,12 @@ table.navigation{
 }
 table.content{
   border-spacing: 0.5em;
+  text-align: center;
+  width: 75%;
+}
+table.content_headers{
+  text-align: center;
+  width: 45%;
 }
 a{
   color: white;
