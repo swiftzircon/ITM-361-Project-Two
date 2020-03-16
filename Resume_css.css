@@ -1,19 +1,37 @@
 h1,h2,h3 {
-  color:white;
+  color:black;
   font-family:"Kanit","Lucida Sans Unicode"; 
 }
+h2{
+	background-color: #bd0d4e;
+	color: white;
+	border-radius: 15px;
+}
 p,li,td{
-  color:white;
+  color:black;
   font-family:"Lucida Sans Unicode";
 }
 td.main_content{
+  border-radius: 15px;
   text-align: center;
   background-color: #bd0d4e;
 }
 table.navigation{
-  border-spacing: 1em;
-  width: 50%;
+  border-spacing: 15px;
+  width: 600px;
+}
+td.content{
+  border-radius: 15px;
+  padding: 30px;
+  background-color: #fcb1b8;
+}
+td.resume_cell{
+  vertical-align: top;
+  text-align: left;
 }
 a{
   color: white;
+}
+body {
+  background-color: grey; 
 }
