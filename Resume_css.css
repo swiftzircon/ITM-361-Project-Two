@@ -1,0 +1,19 @@
+h1,h2,h3 {
+  color:white;
+  font-family:"Kanit","Lucida Sans Unicode"; 
+}
+p,li,td{
+  color:white;
+  font-family:"Lucida Sans Unicode";
+}
+td.main_content{
+  text-align: center;
+  background-color: #bd0d4e;
+}
+table.navigation{
+  border-spacing: 1em;
+  width: 50%;
+}
+a{
+  color: white;
+}
