@@ -7,10 +7,12 @@ p,li,td{
   font-family:"Lucida Sans Unicode";
 }
 td.main_content{
+  border-radius: 1em;
   text-align: center;
   background-color: #bd0d4e;
 }
 td.content{
+   border-radius: 1em;
   padding: 0.5em;
   text-align: center;
   background-color: #d94d1a;
